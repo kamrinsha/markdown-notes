@@ -10,7 +10,8 @@ all html tag works here
 double space for html tag <br/>
 
 3 horizontal line
-<hr/> or ___
+<hr/> or 
+___
 
 4 heading 
 same as html tag <h1> </h2>  or
