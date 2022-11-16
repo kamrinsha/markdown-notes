@@ -1,34 +1,52 @@
-aff a file extension as .md
+add a file extension as .md
 .md stands for markdown
 
 all html tag works here
 
-1 to make comment
+- 1 #comment
+```
 <!--comment-->
+```  
+- 2 #new line
+```
+double space 
+  
+```
+for html tag 
+```
+<br/>  
+```
+  
+- 3 #horizontal line
+```
+<hr/> 
+```
+or 
+__
 
-2 new line
-double space for html tag <br/>
-
-3 horizontal line
-<hr/> or 
-___
-
-4 heading 
+4 #heading 
 same as html tag <h1> </h2>  or
+```
 # for h1
 # for h2
 # h3
 # h4
-
-5 paragraph
+```
+  
+- 5 #paragraph
+```
 html tag <p> text <p/>
-
-6 italic
-<i> </i> or 
+```
+  
+- 6 #italic
+```
+<i> italic</i> or 
+_text_
+```
 _text_
 
-7 underline
-<u> underline </u>'
+- 7 #bold
+<u> bold or underline</u>
 __underline__
 
 8 strikethrough
@@ -50,7 +68,7 @@ text
 
 10 list
 <ol>
-<li>text</li
+	<li>text</li><li>text</li><li>text</li>
 </ol>
 
 markdown 
@@ -68,7 +86,7 @@ only type number
 
 12 task list
 - [x] task1(complete task will show on github)
-- [x} task2(complete task will show on github)
+- [x] task2(complete task will show on github)
 - [] task3(uncomplete task will show on github)
 
 
