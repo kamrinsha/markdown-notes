@@ -75,7 +75,7 @@ only type number
 www.domain.com
 
 disable link
-'www.domain.com'
+`www.domain.com`
 
 link syntax
 [text](web site) 
