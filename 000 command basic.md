@@ -76,7 +76,7 @@ text
 <ol>
 	<li>text</li><li>text</li><li>text</li>
 </ol>
-
+  
 markdown 
 1.
 2. 
@@ -84,41 +84,43 @@ markdown
 	2.
 3. 
 only type number
-
+  
 11 unorder list
 - item 
 	-   item
 - item
-
+  
 12 task list
 - [x] task1(complete task will show on github)
 - [x] task2(complete task will show on github)
 - [] task3(uncomplete task will show on github)
 
-
+  
 13 automation link
 www.domain.com
-
-disable link
+  
+disable link  
 `www.domain.com`
-
-link syntax
+  
+link syntax  
 [text](web site) 
-
+  
 for using multiple link use comment box
-
+  
+```
 [text][website1][website2]
 <!--all link here-->
 [website1]: www.domain1.com
 [website2]: www.domain2.com
-
+  
 must use same name
-
+```
+  
 14. image syntax
 ![alt text] (image)
 or html tag
 <img src="link" width="200" title="profile" />
-
+  
 15 table
 | name | phone |
 | ----- | ----- |
