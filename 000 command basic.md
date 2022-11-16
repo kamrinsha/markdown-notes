@@ -46,26 +46,32 @@ _text_
 _text_
 
 - 7 #bold
+```
+__bold__
+```
 <u> bold or underline</u>
-__underline__
+__bold__
 
 8 strikethrough
 <del> text </del>
-~~text~~
-
+~~text~~ 
+```
+~~text~~ 
+```
+  
 9 inline code block
-'<html>'
+`<html>`
 
 multiple line inline block
-'''
+```
 text
-'''
-
+```
+  
 program code show
-'''html (program name) also type css
+```html (program name) also type css
 text
-'''
-
+```
+  
 10 list
 <ol>
 	<li>text</li><li>text</li><li>text</li>
